@@ -302,4 +302,8 @@ section p{
 body { 
     overflow-x: hidden;
   }
-  
+
+.video{
+width: 50%;
+margin: 0 auto;
+}
